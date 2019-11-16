@@ -1,3 +1,4 @@
+pip==19.3.1
 Flask==1.0.2
 Flask-Login==0.4.0
 Flask-Migrate==2.0.2
